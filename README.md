@@ -5,7 +5,7 @@ ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
 ---------------------------------
 
 1. Stowarzyszenie nosi nazwę “Hackerspace Silesia”, w skrócie “Hackerspace”, w języku angielskim “Hackerspace Silesia”, w dalszych postanowieniach zwane Stowarzyszeniem.
-2. Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest miasto stołeczne Katowice.
+2. Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest miasto Katowice.
 3. Dla realizacji celów statutowych stowarzyszenie może działać na terenie innych państw z poszanowaniem tamtejszego prawa.
 4. Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną.  Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz.U. z 2001, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.
 5. Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organizacji o podobnych celach.
