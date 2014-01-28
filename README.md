@@ -1,5 +1,5 @@
 STATUT STOWARZYSZENIA „HACKERSPACE SILESIA”
-==============================================
+===========================================
 
 ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
 ---------------------------------
@@ -38,7 +38,7 @@ ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
  i) współpracę z krajowymi i zagranicznymi organizacjami.
 
 ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
--------------------------------------
+---------------------------------------------
 
 1. Członkami Stowarzyszenia mogą być osoby fizyczne i prawne.
 2. Stowarzyszenie posiada członków:
