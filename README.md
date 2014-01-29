@@ -47,8 +47,7 @@ ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
 
  b) wspierających.
 
-3. Członkiem Zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która spełni
-wszystkie poniższe warunki:
+3. Członkiem Zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która spełni wszystkie poniższe warunki:
 
  a) złoży deklarację członkowską na piśmie,
 
