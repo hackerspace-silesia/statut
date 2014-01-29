@@ -60,8 +60,7 @@ ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
 
  a) korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
 
- b) udziału w zebraniach, wykładach oraz imprezach organizowanych przez
-Stowarzyszenie,
+ b) udziału w zebraniach, wykładach oraz imprezach organizowanych przez Stowarzyszenie,
 
  c) zgłaszania wniosków dotyczących działalności Stowarzyszenia,
 
@@ -106,8 +105,7 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
 2. Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa dwa lata,
 3. Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum, chyba że dalsze postanowienia statutu stanowią inaczej.
-4. Walne Zgromadzenie Członków jest najwyższą władzą Stowarzyszenia. W Walnym
-Zgromadzeniu Członków biorą udział:
+4. Walne Zgromadzenie Członków jest najwyższą władzą Stowarzyszenia. W Walnym Zgromadzeniu Członków biorą udział:
 
  a) z głosem stanowiącym – członkowie zwyczajni,
 
