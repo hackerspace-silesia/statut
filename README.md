@@ -194,19 +194,15 @@ ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
 
  b) subwencji, darowizn, spadków i zapisów,
 
- c) wpływów z odpłatnej działalności statutowej,
+ c) wpływów z ofiarności publicznej,
 
- d) wpływów z działalności gospodarczej,
+ d) dochodów z majątku, odsetek oraz kapitału,
 
- e) wpływów z ofiarności publicznej,
+ e) dotacji i kontraktów państwowych,
 
- f) dochodów z majątku, odsetek oraz kapitału,
+ f) wpływów z loterii i aukcji,
 
- g) dotacji i kontraktów państwowych,
-
- h) wpływów z loterii, aukcji i sponsoringu,
-
- i) zbiórek publicznych.
+ g) zbiórek publicznych.
 
 2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
 3. Organem kompetentnym w zakresie zarządzania majątkiem Stowarzyszenia jest Zarząd.
