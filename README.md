@@ -103,7 +103,7 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
  c) Komisja Rewizyjna.
 
-2. Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa dwa lata,
+2. Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa jeden rok,
 3. Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum, chyba że dalsze postanowienia statutu stanowią inaczej.
 4. Walne Zgromadzenie Członków jest najwyższą władzą Stowarzyszenia. W Walnym Zgromadzeniu Członków biorą udział:
 
