@@ -155,7 +155,7 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
  d) sprawowanie zarządu nad majątkiem Stowarzyszenia,
 
- e) podejmowanie uchwał o zarządzania majątkiem Stowarzyszenia,
+ e) podejmowanie uchwał o zarządzaniu majątkiem Stowarzyszenia,
 
  f) reprezentowanie Stowarzyszenia wobec organów administracji i sądów,
 
