@@ -23,15 +23,15 @@ ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
 
  b) prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń,
 
- c) organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów,
+ c) organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
 
- d) udział w imprezach promujących naukę,
+ d) udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
 
  e) realizację i wspieranie projektów naukowych,
 
- f) działalność edukacyjną,
+ f) działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym),
 
- g) działalność publicystyczną i wydawniczą,
+ g) działalność publicystyczną i wydawniczą (przy przestrzeganiu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe),
 
  h) integrację środowiska akademickiego, naukowego i przemysłowego,
 
@@ -90,35 +90,36 @@ ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
  c) utraty praw publicznych na mocy prawomocnego wyroku sądu,
 
  d) śmierci członka oraz utraty osobowości prawnej przez osoby prawne.
-12. Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysługuje odwołanie do Walnego Zgromadzenia Członków. Odwołanie powinno zostać przekazane Zarządowi w formie pisemnej w terminie 14 dni od chwili poinformowania zainteresowanego o treści uchwały Zarządu. Uchwała Walnego Zgromadzenia Członków jest ostateczna i wchodzi w życie w trybie natychmiastowym.
+
+12. Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysługuje odwołanie do Walnego Zebrania Członków. Odwołanie powinno zostać przekazane Zarządowi w formie pisemnej w terminie 14 dni od chwili poinformowania zainteresowanego o treści uchwały Zarządu. Uchwała Walnego Zebrania Członków jest ostateczna i wchodzi w życie w trybie natychmiastowym.
 
 ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 -----------------------------------
 
 1. Władzami Stowarzyszenia są:
 
- a) Walne Zgromadzenie Członków,
+ a) Walne Zebranie Członków,
 
  b) Zarząd,
 
  c) Komisja Rewizyjna.
 
 2. Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa jeden rok,
-3. Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum, chyba że dalsze postanowienia statutu stanowią inaczej.
-4. Walne Zgromadzenie Członków jest najwyższą władzą Stowarzyszenia. W Walnym Zgromadzeniu Członków biorą udział:
+3. Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów w trybie jawnym, przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum, chyba że dalsze postanowienia statutu stanowią inaczej.
+4. Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia. W Walnym Zebraniu Członków biorą udział:
 
  a) z głosem stanowiącym – członkowie zwyczajni,
 
  b) z głosem doradczym – członkowie wspierający oraz zaproszeni goście.
 
-5. Walne Zgromadzenie Członków może być zwyczajne i nadzwyczajne.
-6. Dla zwołania Walnego Zgromadzenia Członków podaje się dwa terminy. Jeśli w pierwszym terminie nie zbierze się kworum Walne Zgromadzenie Członków odbywa się w drugim terminie.
-7. Aby Walne Zgromadzenie Członków mogło się rozpocząć w pierwszym terminie wymagane jest kworum, czyli obecność co najmniej połowy ogólnej liczby zwyczajnych członków Stowarzyszenia. W drugim terminie kworum nie jest wymagane.
-8. Oba terminy Walnego Zgromadzenia Członków nie mogą być odległe bardziej niż 14 dni kalendarzowych.
-9. Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
-10. Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia. Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na nie poźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
-11. Uchwały Walnego Zgromadzenia Członków zapadają zwykłą większością głosów w trybie głosowania jawnego lub, na żądanie dowolnego uczestnika, tajnego.
-12. Do kompetencji Walnego Zgromadzenia Członków należą:
+5. Walne Zebranie Członków może być zwyczajne i nadzwyczajne.
+6. Dla zwołania Walnego Zebrania Członków podaje się dwa terminy. Jeśli w pierwszym terminie nie zbierze się kworum Walne Zebranie Członków odbywa się w drugim terminie.
+7. Aby Walne Zebranie Członków mogło się rozpocząć w pierwszym terminie wymagane jest kworum, czyli obecność co najmniej połowy ogólnej liczby zwyczajnych członków Stowarzyszenia. W drugim terminie kworum nie jest wymagane. Drugi termin następuje za tydzień o wyznaczonej godzinie podanej do wiadomości wszystkich członków.
+8. Oba terminy Walnego Zebrania Członków nie mogą być odległe bardziej niż 14 dni kalendarzowych.
+9. Walne Zebranie Członków zwyczajne jest zwoływane nie rzadziej niż raz na rok przez Zarząd Stowarzyszenia w siedzibie stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
+10. Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia. Pierwszy termin Walnego Zebrania Członków nadzwyczajnego powinien być określony na nie poźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zebranie obraduje nad sprawami, dla których zostało zwołane.
+11. Uchwały Walnego Zebrania Członków zapadają zwykłą większością głosów w trybie głosowania jawnego lub, na żądanie dowolnego uczestnika, tajnego.
+12. Do kompetencji Walnego Zebrania Członków należą:
 
  a) określenie głównych kierunków działania i rozwoju Stowarzyszenia,
 
@@ -141,7 +142,7 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
  j) podejmowanie uchwał w każdej sprawie wniesionej pod obrady, we wszystkich sprawach nie zastrzeżonych do kompetencji innych władz Stowarzyszenia.
 
 13. Uchwały o wyborze i odwoływaniu władz stowarzyszenia oraz zmianach statutu wymagają bezwzględnej większości głosów.
-14. Zarząd jest powołany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zgromadzenia Członków, a także reprezentuje Stowarzyszenie wobec organów administracji i sądów.
+14. Zarząd jest powołany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie wobec organów administracji i sądów.
 15. Zarząd składa się z 3 do 7 osób w tym prezesa, skarbnika i sekretarza.
 16. Poszczególne funkcje Zarząd rozdziela wśród swoich członków w drodze jednomyślnej decyzji. W przypadku braku jednomyślności, hierarchia wyznaczana jest odpowiednio na podstawie liczby głosów uzyskanych w wyborach do zarządu, według następującego porządku: prezes, skarbnik, sekretarz, pozostali członkowie. Ewentualną niejednoznaczność wynikającą z równej liczby uzyskanych głosów rozstrzyga się wówczas w drodze losowania.
 17. Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na rok. Posiedzenia Zarządu zwołuje prezes lub dwóch członków zarządu działających łącznie.
@@ -149,7 +150,7 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
  a) realizacja celów Stowarzyszenia,
 
- b) wykonywanie uchwał Walnego Zgromadzenia Członków,
+ b) wykonywanie uchwał Walnego Zebrania Członków,
 
  c) sporządzanie planów pracy i budżetu,
 
@@ -159,11 +160,11 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
  f) reprezentowanie Stowarzyszenia wobec organów administracji i sądów,
 
- g) zwoływanie Walnego Zgromadzenia Członków,
+ g) zwoływanie Walnego Zebrania Członków,
 
  h) przyjmowanie i skreślanie członków,
 
- i) składanie sprawozdań ze swojej działalności na Walnym Zgromadzeniu Członków,
+ i) składanie sprawozdań ze swojej działalności na Walnym Zebraniu Członków,
 
  j) sporządzanie rocznego sprawozdania finansowego.
 
@@ -173,13 +174,13 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
  a) kontrolowanie działalności Zarządu,
 
- b) składanie wniosków z kontroli na Walnym Zgromadzeniu Członków,
+ b) składanie wniosków z kontroli na Walnym Zebraniu Członków,
 
- c) prawo wystąpienia z wnioskiem o zwołanie Walnego Zgromadzenia Członków oraz zebrania Zarządu,
+ c) prawo wystąpienia z wnioskiem o zwołanie Walnego Zebrania Członków oraz zebrania Zarządu,
 
  d) składanie wniosków o absolutorium dla Zarządu Stowarzyszenia,
 
- e) składanie sprawozdań ze swojej działalności na Walnym Zgromadzeniu Członków,
+ e) składanie sprawozdań ze swojej działalności na Walnym Zebraniu Członków,
 
  f) zatwierdzanie rocznego sprawozdania finansowego.
 
@@ -194,15 +195,15 @@ ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
 
  b) subwencji, darowizn, spadków i zapisów,
 
- c) wpływów z ofiarności publicznej,
+ c) wpływów z ofiarności publicznej (przy przestrzeganiu przepisów ustawy z dnia 15 marca 1933 r. o zbiórkach publicznych),
 
  d) dochodów z majątku, odsetek oraz kapitału,
 
  e) dotacji i kontraktów państwowych,
 
- f) wpływów z loterii i aukcji,
+ f) wpływów z loterii i aukcji (przy przestrzeganiu przepisów ustawy z dnia 19 listopada 2009 r. o grach hazardowych),
 
- g) zbiórek publicznych.
+ g) zbiórek publicznych (przy przestrzeganiu przepisów ustawy z dnia 15 marca 1933 r. o zbiórkach publicznych).
 
 2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
 3. Organem kompetentnym w zakresie zarządzania majątkiem Stowarzyszenia jest Zarząd.
@@ -216,6 +217,6 @@ ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
 ROZDZIAŁ VI - POSTANOWIENIA KOŃCOWE
 -----------------------------------
 
-1. Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zgromadzenie Członków kwalifikowaną większością głosów (2/3), przy obecności co najmniej połowy łącznej liczby członków Stowarzyszenia uprawnionych do głosowania, stanowiących kworum.
-2. Podejmując uchwałę o rozwiązaniu Stowarzyszenia Walne Zgromadzenie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.
+1. Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków kwalifikowaną większością głosów (2/3), przy obecności co najmniej połowy łącznej liczby członków Stowarzyszenia uprawnionych do głosowania, stanowiących kworum.
+2. Podejmując uchwałę o rozwiązaniu Stowarzyszenia Walne Zebranie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia i wyznacza likwidatora.
 3. W sprawach nie uregulowanych w niniejszym statucie zastosowanie mają przepisy ustawy Prawo o Stowarzyszeniach.
