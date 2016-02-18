@@ -19,23 +19,16 @@ ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
 1. Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój interdyscyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
 2. Stowarzyszenie swe cele realizuje poprzez:
 
- a) tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów, organizującej i użyczającej potrzebnych narzędzi,
-
- b) prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń,
-
- c) organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
-
- d) udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
-
- e) realizację i wspieranie projektów naukowych,
-
- f) działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym),
-
- g) działalność publicystyczną i wydawniczą (przy przestrzeganiu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe),
-
- h) integrację środowiska akademickiego, naukowego i przemysłowego,
-
- i) współpracę z krajowymi i zagranicznymi organizacjami.
+| nieodpłatną działalność statutową  	| odpłatną działalność statutową  	|
+|---	|---	|
+| tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów, organizującej i użyczającej potrzebnych narzędzi  	| tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów, organizującej i użyczającej potrzebnych narzędzi  	|
+| prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń  	| prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń  	|
+| organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych)  	| organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych)  	|
+| udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych)  	| udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych)  	|
+| realizację i wspieranie projektów naukowych  	| realizację i wspieranie projektów naukowych  	|
+| działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym)  	| działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym)  	|
+| integrację środowiska akademickiego, naukowego i przemysłowego  	| integrację środowiska akademickiego, naukowego i przemysłowego  	|
+| współpracę z krajowymi i zagranicznymi organizacjami  	| współpracę z krajowymi i zagranicznymi organizacjami  	|
 
 ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
 ---------------------------------------------
