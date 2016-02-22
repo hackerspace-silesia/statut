@@ -20,26 +20,43 @@ ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
 2. Stowarzyszenie swe cele realizuje poprzez:
 
  a) nieodpłatną działalność statutową: 
- 
+  
   1) tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów, organizującej i użyczającej potrzebnych narzędzi,
+  
   2) prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń,
+  
   3) organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
+  
   4) udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
+  
   5) realizację i wspieranie projektów naukowych,
+  
   6) działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym),
+  
   7) działalność publicystyczną i wydawniczą (przy przestrzeganiu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe),
+  
   8) integrację środowiska akademickiego, naukowego i przemysłowego,
+  
   9) współpracę z krajowymi i zagranicznymi organizacjami.
-b) odpłatną działalność statutową:
-
+ 
+ b) odpłatną działalność statutową:
+  
   1) tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów, organizującej i użyczającej potrzebnych narzędzi,
+  
   2) prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń,
+  
   3) organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
+  
   4) udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
+  
   5) realizację i wspieranie projektów naukowych,
+  
   6) działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym),
+  
   7) działalność publicystyczną i wydawniczą (przy przestrzeganiu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe),
+  
   8) integrację środowiska akademickiego, naukowego i przemysłowego,
+  
   9) współpracę z krajowymi i zagranicznymi organizacjami.
 
 ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
