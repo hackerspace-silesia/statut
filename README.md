@@ -233,10 +233,10 @@ ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
 
  b) upoważniony jest każdy członek zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 1024 PLN.
  
- 6. Zabrania się udzielania pożyczek lub zabezpieczania zobowiązań majątkiem organizacji w stosunku do jej członków, członków organów lub pracowników oraz osób, z którymi członkowie, członkowie organów oraz pracownicy organizacji pozostają w związku małżeńskim, we wspólnym pożyciu albo w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej "osobami bliskimi",
- 7. Zabrania się przekazywania ich majątku na rzecz ich członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności, jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
- 8. Zabrania się wykorzystywania majątku na rzecz członków, członków organów lub pracowników oraz ich osób bliskich na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z celu statutowego,
- 9. Zabrania się zakupu towarów lub usług od podmiotów, w których uczestniczą członkowie organizacji, członkowie jej organów lub pracownicy oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich lub po cenach wyższych niż rynkowe.
+6. Zabrania się udzielania pożyczek lub zabezpieczania zobowiązań majątkiem organizacji w stosunku do jej członków, członków organów lub pracowników oraz osób, z którymi członkowie, członkowie organów oraz pracownicy organizacji pozostają w związku małżeńskim, we wspólnym pożyciu albo w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej "osobami bliskimi",
+7. Zabrania się przekazywania ich majątku na rzecz ich członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności, jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
+8. Zabrania się wykorzystywania majątku na rzecz członków, członków organów lub pracowników oraz ich osób bliskich na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z celu statutowego,
+9. Zabrania się zakupu towarów lub usług od podmiotów, w których uczestniczą członkowie organizacji, członkowie jej organów lub pracownicy oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich lub po cenach wyższych niż rynkowe.
 
 ROZDZIAŁ VI - POSTANOWIENIA KOŃCOWE
 -----------------------------------
