@@ -7,27 +7,27 @@ ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
 1. Stowarzyszenie nosi nazwę “Hackerspace Silesia”, w skrócie “Hackerspace”, w języku angielskim “Hackerspace Silesia”, w dalszych postanowieniach zwane Stowarzyszeniem.
 2. Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest miasto Katowice.
 3. Dla realizacji celów statutowych stowarzyszenie może działać na terenie innych państw z poszanowaniem tamtejszego prawa.
-4. Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną.  Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz.U. z 2001, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.
+4. Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną.  Działa na podstawie przepisów ustawy Prawo o Stowarzyszeniach.
 5. Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organizacji o podobnych celach.
-6. Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników.
+6. Stowarzyszenie prowadzi działalność pożytku publicznego na rzecz ogółu społeczności. Oparta jest przede wszystkim na pracy społecznej członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników.
 7. Członkami Stowarzyszenia mogą być cudzoziemcy, włącznie z osobami nie mającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
 
 ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
 -------------------------------------
 
-1. Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój interdyscyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
+1. Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój interdyscyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych. Działalność na rzecz nauki, szkolnictwa wyższego, edukacji, oświaty i wychowania.
 2. Stowarzyszenie swe cele realizuje poprzez:
 
  a) nieodpłatną działalność statutową: 
  
   1. tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów, organizującej i użyczającej potrzebnych narzędzi,
   2. prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń,
-  3. organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
-  4. udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
+  3. organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów,
+  4. udział w imprezach promujących naukę,
   5. realizację i wspieranie projektów naukowych,
-  6. działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym),
-  7. działalność publicystyczną i wydawniczą (przy przestrzeganiu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe),
+  6. działalność edukacyjną,
+  7. działalność publicystyczną i wydawniczą,
   8. integrację środowiska akademickiego, naukowego i przemysłowego,
   9. współpracę z krajowymi i zagranicznymi organizacjami.
  
@@ -35,13 +35,14 @@ ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
 
   1. tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów, organizującej i użyczającej potrzebnych narzędzi,
   2. prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń,
-  3. organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
-  4. udział w imprezach promujących naukę (przy przestrzeganiu przepisów ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych),
+  3. organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów,
+  4. udział w imprezach promujących naukę,
   5. realizację i wspieranie projektów naukowych,
-  6. działalność edukacyjną (przy przestrzeganiu przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym),
-  7. działalność publicystyczną i wydawniczą (przy przestrzeganiu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe),
+  6. działalność edukacyjną,
+  7. działalność publicystyczną i wydawniczą,
   8. integrację środowiska akademickiego, naukowego i przemysłowego,
   9. współpracę z krajowymi i zagranicznymi organizacjami.
+  10. prowadzenie audytów bezpieczeństwa sieci.
 
 ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
 ---------------------------------------------
@@ -190,6 +191,16 @@ ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
  f) zatwierdzanie rocznego sprawozdania finansowego.
 
+23. Członkowie organu nadzoru:
+
+ a)	nie mogą być członkami organu zarządzającego ani pozostawać z nimi w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej,
+
+ b)	nie byli skazani prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe,
+
+ c)	mogą otrzymywać z tytułu pełnienia funkcji w takim organie zwrot uzasadnionych kosztów lub wynagrodzenie w wysokości nie wyższej niż przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw ogłoszone przez Prezesa Głównego Urzędu Statystycznego za rok poprzedni;
+ 
+ d)	członkowie organu zarządzającego nie byli skazani prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+
 22. W razie gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji uzupełnienie ich składu może nastąpić w drodze kooptacji spośród członków zwyczajnych stowarzyszenia, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu.
 
 ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
@@ -210,8 +221,10 @@ ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
  f) wpływów z loterii i aukcji (przy przestrzeganiu przepisów ustawy z dnia 19 listopada 2009 r. o grach hazardowych),
 
  g) zbiórek publicznych (przy przestrzeganiu przepisów ustawy z dnia 15 marca 1933 r. o zbiórkach publicznych).
+ 
+ h) sponsoring
 
-2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
+2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami. Cały dochód organizacji przeznaczany jest na działalność pożytku publicznego. Działalność pożytku publicznego określona jest wyodrębniona w sposób zapewniający należytą identyfikację pod względem organizacyjnym i rachunkowym;
 3. Organem kompetentnym w zakresie zarządzania majątkiem Stowarzyszenia jest Zarząd.
 4. Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na kontach Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej trzech miesięcy.
 5. Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń woli, w szczególności w sprawach majątkowych:
@@ -219,6 +232,11 @@ ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
  a) upoważnionych jest dowolnych dwóch członków Zarządu działających łącznie
 
  b) upoważniony jest każdy członek zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 1024 PLN.
+ 
+ 6. Zabrania się udzielania pożyczek lub zabezpieczania zobowiązań majątkiem organizacji w stosunku do jej członków, członków organów lub pracowników oraz osób, z którymi członkowie, członkowie organów oraz pracownicy organizacji pozostają w związku małżeńskim, we wspólnym pożyciu albo w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej "osobami bliskimi",
+ 7. Zabrania się przekazywania ich majątku na rzecz ich członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności, jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
+ 8. Zabrania się wykorzystywania majątku na rzecz członków, członków organów lub pracowników oraz ich osób bliskich na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z celu statutowego,
+ 9. Zabrania się zakupu towarów lub usług od podmiotów, w których uczestniczą członkowie organizacji, członkowie jej organów lub pracownicy oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich lub po cenach wyższych niż rynkowe.
 
 ROZDZIAŁ VI - POSTANOWIENIA KOŃCOWE
 -----------------------------------
